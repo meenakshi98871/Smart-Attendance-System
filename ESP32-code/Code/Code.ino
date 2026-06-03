@@ -10,7 +10,7 @@ const char* ssid = "WIFI NAME";
 const char* password = "WIFI PASSWORD";
 
 // Google Apps Script Web App URL
-String serverName = APPSCRIPT_URL;
+String serverName = "PUT your appscript URL";
 
 // OLED configuration
 #define SCREEN_WIDTH 128
