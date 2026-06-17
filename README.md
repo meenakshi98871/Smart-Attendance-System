@@ -14,6 +14,7 @@ An IoT-based Smart Attendance System developed using ESP32, RTC Module, OLED Dis
 - ESP32
 - OLED Display
 - RTC Module
+- RFID module 
 
 ## Software Used
 - Arduino IDE
